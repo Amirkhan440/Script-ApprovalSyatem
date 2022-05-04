@@ -6,7 +6,7 @@
   𝘖𝘱𝘦𝘯 𝘚𝘰𝘶𝘳𝘴𝘦 𝘚𝘤𝘳𝘪𝘱𝘵 - 𝘊𝘳𝘦𝘢𝘵𝘦𝘥 𝘉𝘺 : 𝘉𝘪𝘭𝘢𝘭 𝘏𝘢𝘪𝘥𝘦𝘳 𝘐𝘋
 
 ```
-   01: `GitHub Server`
-   02: `Pastebin Server`
-   03: `000webhost Server`
+   `01:` `GitHub Server`<br>
+   `02:` `Pastebin Server` <br>
+   `03:` `000webhost Server` <br>
  
